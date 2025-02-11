@@ -30,7 +30,9 @@ bash requirements.sh
 ```
 
 ## Start the program (Inside the virtual environment)
+```
 python app.py
+```
 
 ## Stop the program
 Press "q" when in the screen
